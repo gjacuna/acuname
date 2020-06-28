@@ -1,4 +1,4 @@
-baseURL = "//acuna.me/experiments/hugo/public/"
+baseURL = "//acuna.me/"
 languageCode = "en-us"
 title = "GaK"
 theme = "LeaveIt"

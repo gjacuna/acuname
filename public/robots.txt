@@ -63,4 +63,4 @@ Disallow: /
 User-agent: ZoominfoBot
 Disallow: /
 
-Sitemap: //acuna.me/experiments/hugo/public/sitemap.xml
+Sitemap: //acuna.me/sitemap.xml

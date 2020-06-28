@@ -1,30 +1,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>GaK on GaK</title>
-    <link>//acuna.me/experiments/hugo/public/</link>
+    <link>//acuna.me/</link>
     <description>Recent content in GaK on GaK</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 09 Apr 2014 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/experiments/hugo/public/" rel="self" type="application/rss+xml" />
+    <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Posts</title>
-      <link>//acuna.me/experiments/hugo/public/posts/</link>
+      <link>//acuna.me/posts/</link>
       <pubDate>Fri, 26 Jun 2020 22:18:30 -0400</pubDate>
       
-      <guid>//acuna.me/experiments/hugo/public/posts/</guid>
+      <guid>//acuna.me/posts/</guid>
       <description></description>
     </item>
     
     <item>
       <title>About</title>
-      <link>//acuna.me/experiments/hugo/public/about/</link>
+      <link>//acuna.me/about/</link>
       <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>//acuna.me/experiments/hugo/public/about/</guid>
+      <guid>//acuna.me/about/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Hola/Hello/Hallo&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;If you&amp;rsquo;re here, you&amp;rsquo;re either stalking me or are genuinely interested in me. Regardless, check out my &lt;a href=&#34;//acuna.me/experiments/hugo/public/&#34;&gt;social media profiles&lt;/a&gt; or the Conway&amp;rsquo;s Game of Life I implemented on JS below (I&amp;rsquo;m still not convinced it&amp;rsquo;s properly done though).&lt;/p&gt;
+&lt;p&gt;If you&amp;rsquo;re here, you&amp;rsquo;re either stalking me or are genuinely interested in me. Regardless, check out my &lt;a href=&#34;//acuna.me/&#34;&gt;social media profiles&lt;/a&gt; or the Conway&amp;rsquo;s Game of Life I implemented on JS below (I&amp;rsquo;m still not convinced it&amp;rsquo;s properly done though).&lt;/p&gt;
 &lt;p&gt;Also, &lt;strong&gt;help us figure out the answer to humanity&amp;rsquo;s ultimate question: &lt;a href=&#34;http://toiletpaperorientation.org&#34;&gt;The correct way to orient Toilet Paper Orientation&lt;/a&gt;&lt;/strong&gt;, via the Toilet Paper Orientation Foundation.&lt;/p&gt;
 &lt;p&gt;Salud
 &lt;/br&gt;

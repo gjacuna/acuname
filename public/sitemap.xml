@@ -2,7 +2,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
     <url>
-      <loc>//acuna.me/experiments/hugo/public/2020/initial-post/</loc>
+      <loc>//acuna.me/2020/initial-post/</loc>
       
       <lastmod>2020-06-26T22:18:30-04:00</lastmod>
       
@@ -12,7 +12,7 @@
     </url>
   
     <url>
-      <loc>//acuna.me/experiments/hugo/public/posts/</loc>
+      <loc>//acuna.me/posts/</loc>
       
       <lastmod>2020-06-26T22:18:30-04:00</lastmod>
       
@@ -22,7 +22,7 @@
     </url>
   
     <url>
-      <loc>//acuna.me/experiments/hugo/public/about/</loc>
+      <loc>//acuna.me/about/</loc>
       
       <lastmod>2014-04-09T00:00:00+00:00</lastmod>
       
@@ -32,7 +32,7 @@
     </url>
   
     <url>
-      <loc>//acuna.me/experiments/hugo/public/</loc>
+      <loc>//acuna.me/</loc>
       
       <lastmod>2014-04-09T00:00:00+00:00</lastmod>
       
@@ -42,7 +42,7 @@
     </url>
   
     <url>
-      <loc>//acuna.me/experiments/hugo/public/categories/</loc>
+      <loc>//acuna.me/categories/</loc>
       
       
       
@@ -50,7 +50,7 @@
     </url>
   
     <url>
-      <loc>//acuna.me/experiments/hugo/public/tags/</loc>
+      <loc>//acuna.me/tags/</loc>
       
       
       
