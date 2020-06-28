@@ -1,0 +1,55 @@
+baseURL = "//acuna.me/experiments/hugo/"
+languageCode = "en-us"
+title = "GaK"
+theme = "LeaveIt"
+
+paginate = 12
+enableEmoji = true
+enableRobotsTXT = true
+googleAnalytics = ""
+
+preserveTaxonomyNames = true
+
+[blackfriday]
+  hrefTargetBlank = true
+  nofollowLinks = true
+  noreferrerLinks = true
+
+[Permalinks]
+ posts = "/:year/:filename/"
+
+[menu]
+  [[menu.main]]
+    name = "Blog"
+    url = "/posts/"
+    weight = 1
+
+[params]
+    since = 2011
+    author = "Guillermo Acuña Kitto"                           # Author's name
+    avatar = "/images/me/avatar.jpeg"           # Author's avatar
+    subtitle = "Siempre en construcción..."         # Subtitle
+    cdn_url = ""           # Base CDN URL
+    home_mode = "" # post or other
+
+    google_verification = ""
+   
+    description = "" # site description
+    keywords = "personal website, blog, fintech, thoughts, random" # site keywords
+
+    beian = ""
+    baiduAnalytics = ""
+
+    license= 'This article uses the <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/" target="_blank">Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</a> Licence'
+
+[params.social]
+    GitHub = "gjacuna"
+    Twitter = "gjacuna"
+    Email   = "g@acuna.me"
+    Facebook = "gjacuna"
+    LinkedIn = "gjacuna"
+    Medium = "@gjacuna"
+    Toilet = "gjacuna"
+
+[markup.goldmark.renderer]
+unsafe= true

@@ -1,0 +1,243 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+  <meta http-equiv="content-type" content="text/html;charset=utf-8">
+  <meta http-equiv="X-UA-Compatible" content="chrome=1">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="robots" content="noodp"/>
+  <meta name="author" content="Guillermo Acuña Kitto">
+  
+  <meta name="keywords" content="personal website, blog, fintech, thoughts, random">
+  
+  
+  
+  <link rel="canonical" href="//acuna.me/experiments/hugo/about/" />
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+  <link rel="manifest" href="/site.webmanifest">
+  <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+  <meta name="msapplication-TileColor" content="#da532c">
+  <meta name="theme-color" content="#ffffff">
+  <title>
+       
+       
+           About | GaK
+       
+  </title>
+  <meta name="title" content="About | GaK">
+    
+  
+  <link rel="stylesheet" href="/experiments/hugo/font/iconfont.css">
+  <link rel="stylesheet" href="/experiments/hugo/css/main.min.css">
+
+
+  
+  
+ 
+
+<script type="application/ld+json">
+ "@context" : "http://schema.org",
+    "@type" : "BlogPosting",
+    "mainEntityOfPage": {
+         "@type": "WebPage",
+         "@id": "\/\/acuna.me\/experiments\/hugo\/"
+    },
+    "articleSection" : "",
+    "name" : "About",
+    "headline" : "About",
+    "description" : "Hola\/Hello\/Hallo\nIf you\x26rsquo;re here, you\x26rsquo;re either stalking me or are genuinely interested in me. Regardless, check out my social media profiles or the Conway\x26rsquo;s Game of Life I implemented on JS below (I\x26rsquo;m still not convinced it\x26rsquo;s properly done though).\nAlso, help us figure out the answer to humanity\x26rsquo;s ultimate question: The correct way to orient Toilet Paper Orientation, via the Toilet Paper Orientation Foundation.\nSalud  \n var x = 500; var y = 500; var cycles = 1000; var side = 10; let board = Array.",
+    "inLanguage" : "en-us",
+    "author" : "Guillermo Acuña Kitto",
+    "creator" : "Guillermo Acuña Kitto",
+    "publisher": "Guillermo Acuña Kitto",
+    "accountablePerson" : "Guillermo Acuña Kitto",
+    "copyrightHolder" : "Guillermo Acuña Kitto",
+    "copyrightYear" : "2014",
+    "datePublished": "2014-04-09 00:00:00 \x2b0000 UTC",
+    "dateModified" : "2014-04-09 00:00:00 \x2b0000 UTC",
+    "url" : "\/\/acuna.me\/experiments\/hugo\/about\/",
+    "wordCount" : "108",
+    "keywords" : [  "GaK"]
+}
+</script>
+
+</head>
+
+  
+             
+  
+
+
+  <body class="">
+    <div class="wrapper">
+        <nav class="navbar">
+    <div class="container">
+        <div class="navbar-header header-logo">
+        	<a href="javascript:void(0);" class="theme-switch"><i class="iconfont icon-xihuan"></i></a>&nbsp;<a href="//acuna.me/experiments/hugo/">GaK</a>
+        </div>
+        <div class="menu navbar-right">
+                
+                
+                <a class="menu-item" href="/experiments/hugo/posts/" title="">Blog</a>
+                
+                <a class="menu-item active" href="/experiments/hugo/about/" title="About">About</a>
+                
+        </div>
+    </div>
+</nav>
+<nav class="navbar-mobile" id="nav-mobile" style="display: none">
+     <div class="container">
+        <div class="navbar-header">
+            <div>  <a href="javascript:void(0);" class="theme-switch"><i class="iconfont icon-xihuan"></i></a>&nbsp;<a href="//acuna.me/experiments/hugo/">GaK</a></div>
+            <div class="menu-toggle">
+                <span></span><span></span><span></span>
+            </div>
+        </div>
+     
+          <div class="menu" id="mobile-menu">
+                
+                
+                <a class="menu-item" href="/experiments/hugo/posts/" title="">Blog</a>
+                
+                <a class="menu-item active" href="/experiments/hugo/about/" title="About">About</a>
+                
+        </div>
+    </div>
+</nav>
+    	 <main class="main">
+          <div class="container">
+      		
+<div class="post-warp archive">
+    <h2 class="post-title" style="text-align:right;padding-bottom:2em">About</h2>
+    <div class="post-content">
+        <p><strong>Hola/Hello/Hallo</strong></p>
+<p>If you&rsquo;re here, you&rsquo;re either stalking me or are genuinely interested in me. Regardless, check out my <a href="/">social media profiles</a> or the Conway&rsquo;s Game of Life I implemented on JS below (I&rsquo;m still not convinced it&rsquo;s properly done though).</p>
+<p>Also, <strong>help us figure out the answer to humanity&rsquo;s ultimate question: <a href="http://toiletpaperorientation.org">The correct way to orient Toilet Paper Orientation</a></strong>, via the Toilet Paper Orientation Foundation.</p>
+<p>Salud
+</br>
+<canvas id="game" width="500" height="500" style="border:1px solid #d3d3d3;"></div></p>
+<div id="timer"></div>
+<script type="text/javascript">
+var x = 500;
+var y = 500;
+var cycles = 1000;
+var side = 10;
+let board = Array.from(Array(x/side), () => new Array(y/side));
+for(i=0;i<x/side;i++){
+    for(j=0;j<y/side;j++){
+        if(Math.floor(Math.random()*100+1)<=20){
+            board[i][j]=1;
+        }
+        else{
+            board[i][j]=0;
+        }
+    }
+}
+function sumOfNeighbours(temp_board,i,j){
+    var left = i-1;
+    var right = i+1;
+    var up = j-1;
+    var down = j+1;
+    if(i==0){
+        left = x/side-1;
+    }
+    else if(i == x/side-1){
+        right = 0;
+    }
+    if(j==0){
+        up = y/side-1;
+    }
+    else if(j == y/side-1){
+        down = 0;
+    }
+    return (temp_board[left][up]+temp_board[i][up]+temp_board[right][up]+temp_board[left][j]+temp_board[right][j]+temp_board[left][down]+temp_board[i][down]+temp_board[right][down]);
+}
+var c = document.getElementById("game");
+var ctx = c.getContext("2d");
+var cycle_time = 1000;
+var total_time = cycle_time * cycles;
+var my_interval = setInterval(function(){
+    let previous_board = JSON.parse(JSON.stringify(board));
+    $("#timer").html("Cycles left:"+(total_time/cycle_time-1)+".");
+    for(i=0;i<x/side;i++){
+		for(j=0;j<y/side;j++){
+            //check for neighbours
+			if(previous_board[i][j] == 1){
+                if(sumOfNeighbours(previous_board,i,j) < 2 || sumOfNeighbours(previous_board,i,j) > 3){
+                    board[i][j] = 0;//dies
+                }
+            }
+            else{
+                if(sumOfNeighbours(previous_board,i,j) == 3){
+                    board[i][j] = 1;//lives
+                }
+            }
+		}
+	}
+    for(i=0;i<x/side;i++){
+		for(j=0;j<y/side;j++){
+			if(board[i][j]==1){
+                ctx.fillStyle = "black";
+			    ctx.fillRect(i*10, j*10, 10, 10);
+            }
+            else{
+                ctx.fillStyle = "white";
+			    ctx.fillRect(i*10, j*10, 10, 10);
+            }
+		}
+	}
+    total_time -= cycle_time;
+    if(total_time<=0){
+        clearInterval(my_interval);
+    }
+}, cycle_time);
+</script>
+    </div>
+</div>
+
+          </div>
+		   </main>
+      <footer class="footer">
+    <div class="copyright">
+        &copy;
+        
+        <span itemprop="copyrightYear">2011 - 2020</span>
+        
+        <span class="with-love">
+    	 <i class="iconfont icon-love"></i> 
+         </span>
+         
+            <span class="author" itemprop="copyrightHolder"><a href="//acuna.me/experiments/hugo/">Guillermo Acuña Kitto</a> | </span> 
+         
+
+         
+		  <span>Powered by <a href="https://gohugo.io/" target="_blank" rel="external nofollow">Hugo</a> & <a href="https://github.com/liuzc/leaveit" target="_blank" rel="external nofollow">LeaveIt</a></span> 
+    </div>
+</footer>
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+    <script src="/experiments/hugo/js/vendor_no_gallery.min.js" async=""></script>
+    
+  
+
+
+
+  
+  
+
+     </div>
+  </body>
+</html>
