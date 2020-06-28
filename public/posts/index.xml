@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on GaK</title>
-    <link>//acuna.me/experiments/hugo/posts/</link>
+    <link>//acuna.me/experiments/hugo/public/posts/</link>
     <description>Recent content in Posts on GaK</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 26 Jun 2020 22:18:30 -0400</lastBuildDate>
     
-	<atom:link href="//acuna.me/experiments/hugo/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="//acuna.me/experiments/hugo/public/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Hello world</title>
-      <link>//acuna.me/experiments/hugo/2020/initial-post/</link>
+      <link>//acuna.me/experiments/hugo/public/2020/initial-post/</link>
       <pubDate>Fri, 26 Jun 2020 22:18:30 -0400</pubDate>
       
-      <guid>//acuna.me/experiments/hugo/2020/initial-post/</guid>
+      <guid>//acuna.me/experiments/hugo/public/2020/initial-post/</guid>
       <description>Coming soon&amp;hellip;</description>
     </item>
     
