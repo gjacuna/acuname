@@ -6,7 +6,7 @@ menu = "main"
 
 **Hola/Hello/Hallo**
 
-If you're here, you're either stalking me or are genuinely interested in me. Regardless, check out my [social media profiles](/) or the Conway's Game of Life I implemented on JS below (I'm still not convinced it's properly done though).
+If you're here, you're either stalking me or are genuinely interested in me. Regardless, check out my [social media profiles](/) or the Conway's Game of Life I implemented on JS below (I'm still not convinced it's properly done though, arrays in JS are a bitch).
 
 Also, **help us figure out the answer to humanity's ultimate question: [The correct way to orient Toilet Paper](http://toiletpaperorientation.org)**, via the Toilet Paper Orientation Foundation.
 
