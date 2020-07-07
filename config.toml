@@ -6,7 +6,9 @@ theme = "LeaveIt"
 paginate = 12
 enableEmoji = true
 enableRobotsTXT = true
-googleAnalytics = ""
+googleAnalytics = "UA-20712209-3"
+
+disqusShortname = "gjacuna"
 
 preserveTaxonomyNames = true
 

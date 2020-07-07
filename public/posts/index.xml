@@ -29,5 +29,50 @@
       <description>Coming soon&amp;hellip;</description>
     </item>
     
+    <item>
+      <title>Feliz Año Nuevo</title>
+      <link>//acuna.me/2020/feliz-ano/</link>
+      <pubDate>Mon, 16 Mar 2020 22:18:30 -0400</pubDate>
+      
+      <guid>//acuna.me/2020/feliz-ano/</guid>
+      <description>El 2019 no comenzó el 1 de enero para mi.</description>
+    </item>
+    
+    <item>
+      <title>La Mejor Comida del Mundo</title>
+      <link>//acuna.me/2019/mejor-comida/</link>
+      <pubDate>Sun, 23 Jun 2019 22:18:30 -0400</pubDate>
+      
+      <guid>//acuna.me/2019/mejor-comida/</guid>
+      <description>Cómo la comida que comemos y las cosas que hacemos, a pesar de que parezcan iguales, son distintas.</description>
+    </item>
+    
+    <item>
+      <title>Feliz día, Papá</title>
+      <link>//acuna.me/2019/feliz-dia-papa/</link>
+      <pubDate>Sun, 16 Jun 2019 22:18:30 -0400</pubDate>
+      
+      <guid>//acuna.me/2019/feliz-dia-papa/</guid>
+      <description>Reflexiones del día del padre del 2019.</description>
+    </item>
+    
+    <item>
+      <title>Emprendiendo arriba de un Samurai</title>
+      <link>//acuna.me/2014/emprender-samurai/</link>
+      <pubDate>Fri, 21 Nov 2014 22:18:30 -0400</pubDate>
+      
+      <guid>//acuna.me/2014/emprender-samurai/</guid>
+      <description>Emprender es como andar en un Suzuki Samurai a 140km/h por la carretera. Hint: No es tan maravilloso como suena.</description>
+    </item>
+    
+    <item>
+      <title>The Hike of your Life</title>
+      <link>//acuna.me/2013/hike-of-your-life/</link>
+      <pubDate>Thu, 13 Jun 2013 22:18:30 -0400</pubDate>
+      
+      <guid>//acuna.me/2013/hike-of-your-life/</guid>
+      <description>About memories and the journey of life.</description>
+    </item>
+    
   </channel>
 </rss>
