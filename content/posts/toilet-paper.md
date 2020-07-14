@@ -24,7 +24,7 @@ I started thinking (not a good start for me) that this project would be the perf
 
 So I thought *“to hell with django, I can learn another time”* and somehow decided a php framework would be a better idea. I fooled around with some nano frameworks and got myself up to date with the latest php developments, but got no closer to having anything on [toiletpaperorientation.org](http://toiletpaperorientation.org/).
 
-After those very “productive“ nights I finally saw the light and focused on delivery. I got the simplest and freest html template I liked, put together some php scripts to handle voting and captchas, uploaded everything to godaddy (yes, it was the fastest and easiest that time), and finally had a working website.
+After those very “productive“ nights I finally saw the light and focused on delivery. I got the simplest and freest html template I liked, put together some php scripts to handle voting and captchas, uploaded everything to godaddy (yes, it was the fastest and easiest at the time), and finally had a working website.
 
 It was a long long very long journey for this platform to come to life, maybe more than it was necessary. Although it’s a tiny fraction of what I had originally envisioned, it’s there, in the wild, gathering votes. I learned about django, php, captchas, and deploying to heroku, but mostly, I learned about myself.
 
