@@ -6,10 +6,19 @@
     <description>Recent content in Posts on GaK</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 05 Jul 2020 22:18:30 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jul 2020 22:18:30 -0400</lastBuildDate>
     
 	<atom:link href="//acuna.me/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Earthquakes around the world</title>
+      <link>//acuna.me/2020/earthquakes/</link>
+      <pubDate>Sun, 19 Jul 2020 22:18:30 -0400</pubDate>
+      
+      <guid>//acuna.me/2020/earthquakes/</guid>
+      <description>How a random tweet ignited a passion for the &lt;em&gt;analytica&lt;/em&gt; in my heart. The findings of analyzing 86K+ earthquakes.</description>
+    </item>
     
     <item>
       <title>Toilet Paper Orientation</title>
