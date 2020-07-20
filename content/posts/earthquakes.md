@@ -18,7 +18,7 @@ Sabiendo que el susodicho estaba sufriendo de ese sesgo, pero sin contar con evi
 {{< giphy bWM2eWYfN3r20>}}
 *¡Llévame a lo bueno! Si no quieren leer toda la historia, vayan al final a ver los gráficos.*
 
-Lo primero era encontrar una buena base de datos y para eso encontré la de la *U.S. Geological Survey*, o [USGS](https://www.usgs.gov/) pa' los amigos, que tiene unas [APIs magníficas](https://www.usgs.gov/products/data-and-tools/apis) para bajar lo que quieras. Habiendo bajado todos los terremotos de **más de 5 grados** con sus coordenadas y hora en gmt+0 me puse a analizar superficialmente. A nadie le sorprenderá que la hora de los terremotos distribuye básicamente uniforme durante el día (link a distribución uniforme) y los días de la semana.
+Lo primero era encontrar una buena base de datos y para eso encontré la de la *U.S. Geological Survey*, o [USGS](https://www.usgs.gov/) pa' los amigos, que tiene unas [APIs magníficas](https://www.usgs.gov/products/data-and-tools/apis) para bajar lo que quieras. Habiendo bajado todos los terremotos de **más de 5 grados** con sus coordenadas y hora en gmt+0 me puse a analizar superficialmente. A nadie le sorprenderá que la hora de los terremotos distribuye [básicamente uniforme](https://es.wikipedia.org/wiki/Distribuci%C3%B3n_uniforme_continua) durante el día y los días de la semana.
 
 {{< figure src="/images/uniform.png" title="Ejemplo teórico de cómo se ve la distribución de los terremotos sobre la hora del día." >}}
 
