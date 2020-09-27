@@ -6,10 +6,19 @@
     <description>Recent content in Posts on GaK</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 19 Jul 2020 22:18:30 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2020 18:18:30 -0400</lastBuildDate>
     
 	<atom:link href="//acuna.me/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Compounded Luck</title>
+      <link>//acuna.me/2020/compounding-luck/</link>
+      <pubDate>Sat, 26 Sep 2020 18:18:30 -0400</pubDate>
+      
+      <guid>//acuna.me/2020/compounding-luck/</guid>
+      <description>The more and earlier you get lucky, the more luck you have in the future. Some ideas on how luck works, how to get luckier, and maybe find happiness.</description>
+    </item>
     
     <item>
       <title>Earthquakes around the world</title>
