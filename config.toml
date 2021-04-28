@@ -51,6 +51,7 @@ preserveTaxonomyNames = true
     LinkedIn = "gjacuna"
     Medium = "@gjacuna"
     Toilet = "gjacuna"
+    Ether = "acuna.eth"
 
 [markup.goldmark.renderer]
 unsafe= true
