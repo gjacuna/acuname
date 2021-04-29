@@ -1,5 +1,4 @@
-baseURL = ""
-relativeurls = true
+baseURL = "/"
 languageCode = "en-us"
 title = "GaK"
 theme = "LeaveIt"
