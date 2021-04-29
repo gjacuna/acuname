@@ -1,0 +1,42 @@
+{{ define "content" }}
+{{ $cdn_url := .Scratch.Get "cdn_url" }}
+<div class="post-warp archive">
+    {{ range (.Paginate (.Pages.GroupByDate "2006")).PageGroups }}
+    <h3>{{ .Key }}</h3>
+
+    {{ range .Pages }}
+	<article class="post" itemscope itemscope="" itemtype="http://schema.org/Article">
+
+		<header class="post-header">
+			<h1 class="post-title" itemprop="name headline"><a href="{{ .Permalink }}">{{ .Title }}</a></h1>
+		</header>
+		<div class="post-content">
+			 <!--featured_image-->
+			   {{ with .Params.featured_image }}
+      			{{- $img := . -}}
+      			<p><img src="{{ printf "%s%s" $cdn_url $img }}" class="featured_image"></p>
+   				 {{ end }}
+   			 <!-- end featured_image-->
+
+   			{{ .Summary }}
+		</div>
+		<div class="post-footer">
+			<div class="post-meta">
+            <span class="post-time">
+            <time datetime={{.Date.Format (.Site.Params.dateFormatToUse | default "2006-01-02") }} itemprop="datePublished">{{ .Date.Format (.Site.Params.dateFormatToUse | default "January 2, 2006") }}</time>
+            </span>| {{ .ReadingTime }}{{ with .Site.Data.l10n.articles.readingtime }}{{.}}{{end}} minutes to read
+    </div>
+			{{ with .Params.tags }}
+			<div class="post-tags">
+    		{{ range . }}
+    			<span class="tag"><a href="{{ "tags/" | absURL }}{{ . | urlize }}/">
+           	 #{{.}}</a></span>
+    		{{ end }}
+			</div>
+			{{ end }}
+		</div>
+	</article>
+    {{ end }} {{ end }}
+    {{ partial "paginator.html" . }}
+</div>
+{{end }}
