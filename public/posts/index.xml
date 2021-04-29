@@ -2,98 +2,98 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on GaK</title>
-    <link>//acuna.me/posts/</link>
+    <link>/posts/</link>
     <description>Recent content in Posts on GaK</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 27 Apr 2021 18:18:30 -0400</lastBuildDate><atom:link href="//acuna.me/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 27 Apr 2021 18:18:30 -0400</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Groundhog Day, Palm Springs y un análisis de nuestra sociedad actual</title>
-      <link>//acuna.me/2021/marmota/</link>
+      <link>/2021/marmota/</link>
       <pubDate>Sun, 07 Feb 2021 10:18:30 -0400</pubDate>
       
-      <guid>//acuna.me/2021/marmota/</guid>
+      <guid>/2021/marmota/</guid>
       <description>2 películas iguales, con 28 años de diferencia, reflejan cómo hemos ido negando nuestra propia ignorancia, y extremando nuestras creencias.</description>
     </item>
     
     <item>
       <title>Compounded Luck</title>
-      <link>//acuna.me/2020/compounding-luck/</link>
+      <link>/2020/compounding-luck/</link>
       <pubDate>Sat, 26 Sep 2020 18:18:30 -0400</pubDate>
       
-      <guid>//acuna.me/2020/compounding-luck/</guid>
+      <guid>/2020/compounding-luck/</guid>
       <description>The more and earlier you get lucky, the more luck you have in the future. Some ideas on how luck works, how to get luckier, and maybe find happiness.</description>
     </item>
     
     <item>
       <title>Earthquakes around the world</title>
-      <link>//acuna.me/2020/earthquakes/</link>
+      <link>/2020/earthquakes/</link>
       <pubDate>Sun, 19 Jul 2020 22:18:30 -0400</pubDate>
       
-      <guid>//acuna.me/2020/earthquakes/</guid>
+      <guid>/2020/earthquakes/</guid>
       <description>How a random tweet ignited a passion for the &lt;em&gt;analytica&lt;/em&gt; in my heart. The findings of analyzing 86K+ earthquakes.</description>
     </item>
     
     <item>
       <title>Toilet Paper Orientation</title>
-      <link>//acuna.me/2020/toilet-paper/</link>
+      <link>/2020/toilet-paper/</link>
       <pubDate>Sun, 05 Jul 2020 22:18:30 -0400</pubDate>
       
-      <guid>//acuna.me/2020/toilet-paper/</guid>
+      <guid>/2020/toilet-paper/</guid>
       <description>The story of how the Toilet Paper Orientation Foundation came to life.</description>
     </item>
     
     <item>
       <title>It’s finally done</title>
-      <link>//acuna.me/2020/initial-post/</link>
+      <link>/2020/initial-post/</link>
       <pubDate>Fri, 26 Jun 2020 22:18:30 -0400</pubDate>
       
-      <guid>//acuna.me/2020/initial-post/</guid>
+      <guid>/2020/initial-post/</guid>
       <description>Using Hugo to update this website.</description>
     </item>
     
     <item>
       <title>Feliz Año Nuevo</title>
-      <link>//acuna.me/2020/feliz-ano/</link>
+      <link>/2020/feliz-ano/</link>
       <pubDate>Mon, 16 Mar 2020 22:18:30 -0400</pubDate>
       
-      <guid>//acuna.me/2020/feliz-ano/</guid>
+      <guid>/2020/feliz-ano/</guid>
       <description>El 2019 no comenzó el 1 de enero para mi.</description>
     </item>
     
     <item>
       <title>La Mejor Comida del Mundo</title>
-      <link>//acuna.me/2019/mejor-comida/</link>
+      <link>/2019/mejor-comida/</link>
       <pubDate>Sun, 23 Jun 2019 22:18:30 -0400</pubDate>
       
-      <guid>//acuna.me/2019/mejor-comida/</guid>
+      <guid>/2019/mejor-comida/</guid>
       <description>Cómo la comida que comemos y las cosas que hacemos, a pesar de que parezcan iguales, son distintas.</description>
     </item>
     
     <item>
       <title>Feliz día, Papá</title>
-      <link>//acuna.me/2019/feliz-dia-papa/</link>
+      <link>/2019/feliz-dia-papa/</link>
       <pubDate>Sun, 16 Jun 2019 22:18:30 -0400</pubDate>
       
-      <guid>//acuna.me/2019/feliz-dia-papa/</guid>
+      <guid>/2019/feliz-dia-papa/</guid>
       <description>Reflexiones del día del padre del 2019.</description>
     </item>
     
     <item>
       <title>Emprendiendo arriba de un Samurai</title>
-      <link>//acuna.me/2014/emprender-samurai/</link>
+      <link>/2014/emprender-samurai/</link>
       <pubDate>Fri, 21 Nov 2014 22:18:30 -0400</pubDate>
       
-      <guid>//acuna.me/2014/emprender-samurai/</guid>
+      <guid>/2014/emprender-samurai/</guid>
       <description>Emprender es como andar en un Suzuki Samurai a 140km/h por la carretera. Hint: No es tan maravilloso como suena.</description>
     </item>
     
     <item>
       <title>The Hike of your Life</title>
-      <link>//acuna.me/2013/hike-of-your-life/</link>
+      <link>/2013/hike-of-your-life/</link>
       <pubDate>Thu, 13 Jun 2013 22:18:30 -0400</pubDate>
       
-      <guid>//acuna.me/2013/hike-of-your-life/</guid>
+      <guid>/2013/hike-of-your-life/</guid>
       <description>About memories and the journey of life.</description>
     </item>
     
