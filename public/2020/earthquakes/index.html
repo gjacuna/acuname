@@ -9,14 +9,14 @@
   
   <meta name="keywords" content="personal website, blog, fintech, thoughts, random">
   
-  <link rel="prev" href="/2020/toilet-paper/" />
-  <link rel="next" href="/2020/compounding-luck/" />
-  <link rel="canonical" href="/2020/earthquakes/" />
-  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
-  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
-  <link rel="manifest" href="/site.webmanifest">
-  <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+  <link rel="prev" href="../../2020/toilet-paper/" />
+  <link rel="next" href="../../2020/compounding-luck/" />
+  <link rel="canonical" href="../../2020/earthquakes/" />
+  <link rel="apple-touch-icon" sizes="180x180" href="../../apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="../../favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="../../favicon-16x16.png">
+  <link rel="manifest" href="../../site.webmanifest">
+  <link rel="mask-icon" href="../../safari-pinned-tab.svg" color="#5bbad5">
   <meta name="msapplication-TileColor" content="#da532c">
   <meta name="theme-color" content="#ffffff">
   <title>
@@ -28,8 +28,8 @@
   <meta name="title" content="Earthquakes around the world | GaK">
     
   
-  <link rel="stylesheet" href="/font/iconfont.css">
-  <link rel="stylesheet" href="/css/main.min.css">
+  <link rel="stylesheet" href="../../font/iconfont.css">
+  <link rel="stylesheet" href="../../css/main.min.css">
 
 
   
@@ -73,14 +73,14 @@
         <nav class="navbar">
     <div class="container">
         <div class="navbar-header header-logo">
-        	<a href="javascript:void(0);" class="theme-switch"><i class="iconfont icon-xihuan"></i></a>&nbsp;<a href="/">GaK</a>
+        	<a href="javascript:void(0);" class="theme-switch"><i class="iconfont icon-xihuan"></i></a>&nbsp;<a href="../../">GaK</a>
         </div>
         <div class="menu navbar-right">
                 
                 
-                <a class="menu-item" href="/posts/" title="">Blog</a>
+                <a class="menu-item" href="../../posts/" title="">Blog</a>
                 
-                <a class="menu-item" href="/about/" title="About">About</a>
+                <a class="menu-item" href="../../about/" title="About">About</a>
                 
         </div>
     </div>
@@ -88,7 +88,7 @@
 <nav class="navbar-mobile" id="nav-mobile" style="display: none">
      <div class="container">
         <div class="navbar-header">
-            <div>  <a href="javascript:void(0);" class="theme-switch"><i class="iconfont icon-xihuan"></i></a>&nbsp;<a href="/">GaK</a></div>
+            <div>  <a href="javascript:void(0);" class="theme-switch"><i class="iconfont icon-xihuan"></i></a>&nbsp;<a href="../../">GaK</a></div>
             <div class="menu-toggle">
                 <span></span><span></span><span></span>
             </div>
@@ -97,9 +97,9 @@
           <div class="menu" id="mobile-menu">
                 
                 
-                <a class="menu-item" href="/posts/" title="">Blog</a>
+                <a class="menu-item" href="../../posts/" title="">Blog</a>
                 
-                <a class="menu-item" href="/about/" title="About">About</a>
+                <a class="menu-item" href="../../about/" title="About">About</a>
                 
         </div>
     </div>
@@ -111,7 +111,7 @@
     <header class="post-header">
         <h1 class="post-title" itemprop="name headline">Earthquakes around the world</h1>
         <div class="post-meta">
-                Written by <a itemprop="name" href="/" rel="author">Guillermo Acuña Kitto</a> with ♥ 
+                Written by <a itemprop="name" href="../../" rel="author">Guillermo Acuña Kitto</a> with ♥ 
                 <span class="post-time">
                 on <time datetime=2020-07-19 itemprop="datePublished">July 19, 2020</time>
                 </span>| 9 minutes to read
@@ -124,7 +124,7 @@
             
         
 
-        <img src="/images/earthquake.jpg" class="featured_image">
+        <img src="../../images/earthquake.jpg" class="featured_image">
         
         
      
@@ -147,20 +147,20 @@
 <em>¡Llévame a lo bueno! Si no quieren leer toda la historia, vayan al final a ver los gráficos.</em></p>
 <p>Lo primero era encontrar una buena base de datos y para eso encontré la de la <em>U.S. Geological Survey</em>, o <a href="https://www.usgs.gov/">USGS</a> pa' los amigos, que tiene unas <a href="https://www.usgs.gov/products/data-and-tools/apis">APIs magníficas</a> para bajar lo que quieras. Habiendo bajado todos los terremotos de <strong>más de 5 grados</strong> con sus coordenadas y hora en gmt+0 me puse a analizar superficialmente. A nadie le sorprenderá que la hora de los terremotos distribuye <a href="https://es.wikipedia.org/wiki/Distribuci%C3%B3n_uniforme_continua">básicamente uniforme</a> durante el día y los días de la semana.</p>
 <figure>
-    <img src="/images/uniform.png"/> <figcaption>
+    <img src="../../images/uniform.png"/> <figcaption>
             <h4>Ejemplo teórico de cómo se ve la distribución de los terremotos sobre la hora del día.</h4>
         </figcaption>
 </figure>
 
 <p>Como ya me había tomado una semana para hacer algo tan básico no le iba a responder el tweet, pero sí desafiarme a mi mismo.</p>
 <p><em>¿Qué pasa con las horas locales, solo analizaste en base a gmt? ¿Qué pasa con la estación del año? Analizaste hasta temblorcitos de 5 grados, ¿qué pasa con los terremotos relevantes que asustan a la gente?</em></p>
-<p><a href="/2020/toilet-paper/">Como saben</a>, cuando me pongo a pensar en algo recibo la misma satisfacción de mi cerebro cómo si de verdad la hiciera, así que todas esas preguntas quedaron sin respuesta (me imaginé respondiéndolas, entonces la respuesta fue irrelevante). Pero, como también saben o <strong>debieran saber</strong> estamos viviendo una pandemia global que nos tiene a todos más o menos aislados y a algunos con un poco más de tiempo para hacer <a href="http://toiletpaperorientation.org/">tonteras</a>.</p>
+<p><a href="../../2020/toilet-paper/">Como saben</a>, cuando me pongo a pensar en algo recibo la misma satisfacción de mi cerebro cómo si de verdad la hiciera, así que todas esas preguntas quedaron sin respuesta (me imaginé respondiéndolas, entonces la respuesta fue irrelevante). Pero, como también saben o <strong>debieran saber</strong> estamos viviendo una pandemia global que nos tiene a todos más o menos aislados y a algunos con un poco más de tiempo para hacer <a href="http://toiletpaperorientation.org/">tonteras</a>.</p>
 <p>Así, les presento el análisis y el camino recorrido para llevarlo a cabo.</p>
 <h1 id="camino-recorrido">Camino recorrido</h1>
 <h2 id="ajustando-los-datos">Ajustando los datos</h2>
 <p>Lo primero a hacer era ajustar la hora del terremoto o temblor a su hora local. La base de <em>USGS</em> viene con ubicación, pero no para todos y en un formato no uniforme. <strong>Sí viene con las coordenadas</strong>, así que era cosa de encontrar la zona horaria para ellas. La cosa era cómo.</p>
 <p>Usando un <em><a href="http://google.com/">sitio web especializado</a></em>, encontré varios hilos en <em>Stack Overflow</em> que hablaban de la misma necesidad y se nombraban varias APIs públicas. Después de un profundo análisis (era la más fácil y más gratis) elegí <strong><a href="https://www.geonames.org/export/">GeoNames</a></strong> que tiene una API para exactamente lo que quería. Solo había un problema, cómo usar esa API para ajustar los 86.184 terremotos en la base&hellip;</p>
-<p>Esta vez no cometí <a href="/2020/toilet-paper/">errores del pasado</a>, así que programé 4 líneas en php para que hiciera el ajuste por mí. El único tema era mi conexión a internet (un prepago Entel 3g, porque a la antena no le da pa 4g) y la velocidad de la API de GeoNames (además de solo permitir 20.000 consultas diarias). Dejaba el código corriendo mientras trabajaba, pero al dejar el computador inevitablemente tenía que detenerlo o la inestabilidad de la conexión lo mataba. En algún momento saqué la cuenta del tiempo que se iba a demorar y eran <strong>11 días corriendo las 24 horas</strong>. Por suerte mejoró y solo fueron unos 5 días, o alrededor de <em>43 horas</em> si lo hubiera dejado corriendo.</p>
+<p>Esta vez no cometí <a href="../../2020/toilet-paper/">errores del pasado</a>, así que programé 4 líneas en php para que hiciera el ajuste por mí. El único tema era mi conexión a internet (un prepago Entel 3g, porque a la antena no le da pa 4g) y la velocidad de la API de GeoNames (además de solo permitir 20.000 consultas diarias). Dejaba el código corriendo mientras trabajaba, pero al dejar el computador inevitablemente tenía que detenerlo o la inestabilidad de la conexión lo mataba. En algún momento saqué la cuenta del tiempo que se iba a demorar y eran <strong>11 días corriendo las 24 horas</strong>. Por suerte mejoró y solo fueron unos 5 días, o alrededor de <em>43 horas</em> si lo hubiera dejado corriendo.</p>
 <h2 id="analizando">Analizando</h2>
 <p>Ya tenía los datos ajustados a su zona horaria, ya tenía las coordenadas pa saber si era invierno o verano, ¡podía empezar mi análisis!</p>
 <p>Lo primero era ver con respecto a la hora del día, ¿hay alguna tendencia a que sean de noche? ¡NO! Distribuyen bastante uniforme&hellip;</p>
@@ -489,7 +489,7 @@ var season = new Chart(cseasons, {
              
             <p class="copyright-item">
                     <span>Link:</span>
-                    <a href=/2020/earthquakes/>/2020/earthquakes/</span>
+                    <a href=../../2020/earthquakes/>/2020/earthquakes/</span>
             </p>
             
              
@@ -504,16 +504,16 @@ var season = new Chart(cseasons, {
         
         <section>
                 <a href="javascript:window.history.back();">back</a></span> · 
-                <span><a href="/">home</a></span>
+                <span><a href="../../">home</a></span>
         </section>
     </div>
 
     <div class="post-nav">
         
-        <a href="/2020/toilet-paper/" class="prev" rel="prev" title="Toilet Paper Orientation"><i class="iconfont icon-left"></i>&nbsp;Toilet Paper Orientation</a>
+        <a href="../../2020/toilet-paper/" class="prev" rel="prev" title="Toilet Paper Orientation"><i class="iconfont icon-left"></i>&nbsp;Toilet Paper Orientation</a>
          
         
-        <a href="/2020/compounding-luck/" class="next" rel="next" title="Compounded Luck">Compounded Luck&nbsp;<i class="iconfont icon-right"></i></a>
+        <a href="../../2020/compounding-luck/" class="next" rel="next" title="Compounded Luck">Compounded Luck&nbsp;<i class="iconfont icon-right"></i></a>
         
     </div>
 
@@ -556,7 +556,7 @@ var season = new Chart(cseasons, {
     	 <i class="iconfont icon-love"></i> 
          </span>
          
-            <span class="author" itemprop="copyrightHolder"><a href="/">Guillermo Acuña Kitto</a> | </span> 
+            <span class="author" itemprop="copyrightHolder"><a href="../../">Guillermo Acuña Kitto</a> | </span> 
          
 
          
@@ -578,7 +578,7 @@ var season = new Chart(cseasons, {
     
      <link href="//lib.baomitu.com/lightgallery/1.6.11/css/lightgallery.min.css" rel="stylesheet">  
       
-     <script src="/js/vendor_gallery.min.js" async="" ></script>
+     <script src="../../js/vendor_gallery.min.js" async="" ></script>
     
   
 
