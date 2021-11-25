@@ -1,6 +1,6 @@
 ---
 title: "The Rise of Populism"
-date: 2021-11-25T03:18:30-04:00
+date: 2021-11-24T03:18:30-04:00
 featured_image: /images/garden.jpeg
 summary: "How the internet is changing how we think, feel, and vote. How we look for answers and comfort. How can we move forward."
 draft: false
