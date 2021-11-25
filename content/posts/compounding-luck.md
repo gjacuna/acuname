@@ -70,7 +70,7 @@ Since any effort will reward you with something, it stands to reason you should 
 
 Getting massively lucky almost always requires a massive effort. Even if you were born the most amazing musician, if you don't have encouraging parents that provide at least the opportunity for you to discover it, or if you never even try to play an instrument, you won't get anything out of it but some fancy party tricks. Musical talent is nothing without hours of (the right) practice, just like any other human activity.
 
-So, getting luckier involves effort, sometimes a lot of effort. *"Luck favors the prepared"* said [Louis Pasteur](https://en.wikiquote.org/wiki/Louis_Pasteur), famous for being lucky and discovering penicillin, among other great contributions to humanity. If you wanna get lucky, work hard and be prepared.
+So, getting luckier involves effort, sometimes a lot of effort. *"Luck favors the prepared"* said [Louis Pasteur](https://en.wikiquote.org/wiki/Louis_Pasteur), famous for being lucky, among other great contributions to humanity. If you wanna get lucky, work hard and be prepared.
 
 Compounding Luck
 --
