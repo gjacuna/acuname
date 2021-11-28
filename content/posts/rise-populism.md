@@ -1,13 +1,13 @@
 ---
-title: "The Rise of Populism"
-date: 2021-11-24T03:18:30-04:00
+title: "The King is Dead, Long Live the Kings"
+date: 2021-11-25T03:18:30-04:00
 featured_image: /images/garden.jpeg
-summary: "How the internet is changing how we think, feel, and vote. How we look for answers and comfort. How can we move forward."
+summary: "How the internet is changing how we think, feel, and vote. How we look for answers and comfort. How we can move past our anxiety."
 draft: false
 
 ---
 
-Inspired by (and borrowing heavily from) the great essay by Aaron Lewis, [“The Garden of Forking Memes”](https://aaronzlewis.com/blog/2020/07/07/the-garden-of-forking-memes/), I decided to propose an explanation, a model if you will, of why populism is so hot right now, the trends undermining democracies, and some ideas on how to fight it. I will try to write a second article with more and more detailed ideas on how to adapt and find better ways to vote and organize.
+Inspired by (and borrowing heavily from) the great essay by Aaron Lewis, [“The Garden of Forking Memes”](https://aaronzlewis.com/blog/2020/07/07/the-garden-of-forking-memes/), I decided to propose an explanation, of the trends that seem to be undermining democracies, how most of us are being attracted to simple premises that seem to explain everything (or charismactic leaders with all the (right) answers), and some ideas on how to mend our ways. I will try to write a second article with more and more detailed ideas on how to adapt and find better ways to vote and organize.
 
 First, a caveat. Like George Cox said *[“all models are wrong, but some are useful”](https://en.wikipedia.org/wiki/All_models_are_wrong)*. This by no means is a complete explanation, shouldn’t have all the answers, it will probably be very uninformed and unoriginal, and it'd be best to consider it a **drunk man’s rambling at a friend’s house** (I actually wrote the first draft on a plane, before falling asleep). It also applies to many things in modern life, I just chose populism and democracies.
 
