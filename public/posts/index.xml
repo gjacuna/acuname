@@ -6,7 +6,16 @@
     <description>Recent content in Posts on GaK</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 25 Nov 2021 03:18:30 -0400</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 03 Mar 2022 00:00:00 -0400</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Happy New Year</title>
+      <link>/2022/happy-new-year/</link>
+      <pubDate>Thu, 03 Mar 2022 00:00:00 -0400</pubDate>
+      
+      <guid>/2022/happy-new-year/</guid>
+      <description>Another year.</description>
+    </item>
+    
     <item>
       <title>The King is Dead, Long Live the Kings</title>
       <link>/2021/rise-populism/</link>
