@@ -53,6 +53,7 @@ preserveTaxonomyNames = true
     Medium = "@gjacuna"
     Toilet = "gjacuna"
     Ether = "acuna.eth"
+    BuidlGuidl = "0x40f9bf922c23c43acdad71Ab4425280C0ffBD697"
 
 [markup.goldmark.renderer]
 unsafe= true
