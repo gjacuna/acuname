@@ -1,6 +1,5 @@
 +++
 date = 2022-06-20T05:00:00Z
-draft = true
 featured_image = "/uploads/istockphoto-143921954-612x612.jpeg"
 summary = "Time to force myself to do something new"
 title = "A New Experiment"
