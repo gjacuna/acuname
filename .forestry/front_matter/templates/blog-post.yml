@@ -15,3 +15,5 @@ fields:
 - type: textarea
   name: summary
   label: summary
+pages:
+- content/posts/a-new-experiment.md
