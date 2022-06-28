@@ -28,7 +28,7 @@ _“And that, kids, is why interest is charged when lending money. There is a ri
 
 It makes sense, or at least we’ve been told it does. _Money today is worth more than money tomorrow_ because **we could do things with the money** in the meantime and/or **there is a risk** we won’t get the money in the future.
 
-But, does it make sense? Underlying this is the notion money needs to **always grow** and that you can actually somehow quantify your trust in someone. It also assumes there is a way to have access to a risk-free investment. Furthermore, I would argue it also assumes you have a legal recourse in case you're not paid.
+But, does it really make sense? Underlying this is the notion money needs to **always grow** and that you can actually somehow quantify your trust in someone. It also assumes there is a way to have access to a risk-free investment. Furthermore, I would argue it also assumes you have a legal recourse in case you're not paid.
 
 Let’s go back to my initial offer, but now I’m willing to sign an IOU. Would my rate go lower? What if I offer my house (if I had one) as colateral? In many places, a house is worth more than 1,000 dollars. This should make my _"risk"_ irrelevant, as long as there is a way to enforce that promise. In most cases, it doesn't...
 
