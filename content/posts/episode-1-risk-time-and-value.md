@@ -1,6 +1,5 @@
 +++
 date = 2022-06-27T05:00:00Z
-draft = true
 featured_image = "/uploads/3boylefinal.jpeg"
 summary = "Ramblings about assumptions in our financial institutions and society."
 title = "Episode 1: Risk, Time, and Value"
