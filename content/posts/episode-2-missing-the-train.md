@@ -25,6 +25,6 @@ I have felt stupid many times in my life, but this trip is definitely in the top
 
 Which reminds me of one of the stupidest mistakes I've seen other people make. We once saw some random people saying goodbye to friends taking the Thalys (high-speed train from Amsterdam to Paris, with just 2 stops in between) and forgetting to get off before the train left! The look on their faces, while hopelessly knocking on the train's windows, is one of my most treasured memories.
 
-I think making stupid mistakes are one of the best things that can happen to anyone. Most of the time we learn invaluable lessons and most of the time without much consequence. They make good stories that we will most likely share, they keep us humble, and they hopefully remind us of the not-so-stupid mistakes we've made or could make.
+I think making stupid mistakes is one of the best things that can happen to anyone. Most of the time we learn invaluable lessons and most of the time without much consequence. They make good stories that we will most likely share, they keep us humble, and they hopefully remind us of the not-so-stupid mistakes we've made or could make.
 
 The best part of making stupid mistakes is they are a tipping point, they change the lens through which we look at the world. **That's very important if you want to get luckier.**
