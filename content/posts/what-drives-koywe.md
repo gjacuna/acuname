@@ -5,7 +5,7 @@ summary = "Why we are doing this, our beliefs, and our vision for the future."
 title = "What Drives Koywe"
 
 +++
-We’re living in _troubled_ times. Protests, social unrest, and violence seem to be growing around the world. Distrust, conspiracies, and polarization are the norm in a world where, thanks to the internet, there are infinite narratives. At the same time, scientific data points to a climate crisis that’s increasingly **harder** to avoid.
+We’re living in _troubled_ times. Protests, social unrest, and violence seem to be growing around the world. Distrust, conspiracies, and polarization are the norm in a world where, thanks to the internet, there are [infinite narratives](https://aaronzlewis.com/blog/2020/07/07/the-garden-of-forking-memes/ "Garden of Forking Memes"). At the same time, scientific data points to a climate crisis that’s increasingly **harder** to avoid.
 
 At [**Koywe**](https://koywe.com "Koywe") we believe all these issues require us to think new models and incentive structures, just to _start_ working on the solutions. How can we have platforms that enhance trust instead of diminish it? How do we stop subsidizing fossil fuels? How do we organize and coordinate around common goals when trust is so low? How do we get _selfish_ people to change the way they transact and interact with others?
 
