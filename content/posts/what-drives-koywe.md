@@ -7,7 +7,7 @@ title = "What Drives Koywe"
 +++
 We’re living in troubled times. Protests, social unrest, and violence seem to be growing around the world. Distrust, conspiracies, and polarization are the norm in a world where, thanks to the internet, there are infinite narratives. At the same time, scientific data points to a climate crisis that’s increasingly harder to avoid.
 
-At Koywe we believe all these issues require us to think new models and incentive structures, just to start working on the solutions. How can we have platforms that enhance trust instead of diminish it? How do we stop subsidizing fossil fuels? How do we organize and coordinate around common goals when trust is so low? How do we get selfish people to change the way the transact and interact with others?
+At Koywe we believe all these issues require us to think new models and incentive structures, just to start working on the solutions. How can we have platforms that enhance trust instead of diminish it? How do we stop subsidizing fossil fuels? How do we organize and coordinate around common goals when trust is so low? How do we get selfish people to change the way they transact and interact with others?
 
 Luckily, we believe, humanity has developed powerful tools to help answer some of these questions. They’re not a silver bullet, they’re not gonna solve all the problems, but they represent opportunities to do things better. Blockchains and cryptocurrencies are new ways to communicate, store value, and model our incentive structures. The so called web3 is all about trying out these new tools, evolve them, make them better, and iterate to bring decentralized and unstoppable economic games that nudge us to behave in pro social ways.
 
