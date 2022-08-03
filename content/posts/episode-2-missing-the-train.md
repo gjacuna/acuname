@@ -17,11 +17,11 @@ Amsterdam Centraal, despite being the main station of the main Dutch city, is no
 
 We got off our train, checked the schedule on our apps, and lucky us! Our next train was leaving from the _same track_! We didn't need to walk. Reassuringly, the screens confirmed that yes, the next train on this track was going where we were going.
 
-It wasn't until the train left, and the screens changed, that we realized, at the same time, that the train we were supposed to take was the **SAME** train that had brought us here... Yes, we lost the train had been going on...
+It wasn't until the train left, and the screens changed, that we realized, at the same time, that the train we were supposed to take was the **SAME** train that had brought us here... **Yes, we lost the train we had been going on**...
 
-We had to wait for an hour to catch the next train. Since there are no cafés or even bathrooms, we just walked around the station (not very big). Since I had the cheapest ticket available, checking out into the world was not allowed.
+We had to wait for an hour to catch the next train. Since there are no cafés or even bathrooms, we just walked around the station (not very big). I had the cheapest ticket available, so checking out into the world was not allowed.
 
-I have felt stupid many times in my life, but this trip is definitely in the top 5.
+I have felt stupid many times in my life, but this trip is definitely in the **top 5**.
 
 Which reminds me of one of the stupidest mistakes I've seen other people make. We once saw some random people saying goodbye to friends taking the Thalys (high-speed train from Amsterdam to Paris, with just 2 stops in between) and forgetting to get off before the train left! The look on their faces, while hopelessly knocking on the train's windows, is one of my most treasured memories.
 
