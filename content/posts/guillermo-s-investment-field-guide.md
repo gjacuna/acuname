@@ -13,6 +13,20 @@ I wanted to give my grain of salt in the matter writing something **more practic
 
 **Disclaimer**: these are just my opinions based on my personal experience. They’re also not made for short-term speculation nor day trading, which are, in my opinion, a waste of time. Challenge everything you want, as you should do with everything in life, debate is welcomed.
 
+# How to use this?
+
+Easy! Just ask the main questions:
+
+1. **What is it?**
+2. **How will I profit from it?**
+3. **Who is offering it and why?**
+
+Answering these questions should be pretty straightforward, if your counterpart is an _honest node_. Look for transparency, auditable code, simplicity, regulations, etc. and you will avoid most failures.
+
+**If you're short on time, skip to section 3**. You shouldn't need more.
+
+But if you do have time, try answering the deeper questions on this guide, like _what is value?_
+
 # Intro: why trust me?
 
 The whole point of this guide is you should ask questions before giving your money to something, be it a person, project, or [Turing-complete](https://en.wikipedia.org/wiki/Turing_completeness) artifacts crafted by nerds.
@@ -98,8 +112,12 @@ Finally, try to figure out who these people are, what their intentions are. It's
 * **Reputation**: at the end of the day, our reputations are all we have. Are our counterparts reputable? Are there sketchy things surrounding them that don't align with your values? Make sure you understand the implications.
 * **What's in it for them?** While working at an investment bank we would warn customers about impending risks or companies going bust. They would tells us to check our information, because \[INSERT NAME OF WALL ST BANK\] had recommended the opposite: **to buy**! It turned out that bank had a big position in the asset, so they'd dump it to their own customers and avoid losses... To the customers they can always say _"You knew the risks involved"_.
 
-That's it. If you can ask these questions and try to find answers, you will be able to stay away from most scams. **It's not bulletproof, there are no certainties in life**, but help it will.
+# TL;DR
+
+### Question everything! Stay away from red flags
+
+That's it. If you ask these questions and try to find answers, you will be able to stay away from most scams. **It's not bulletproof, there are no certainties in life**, but help it will.
 
 In the end, we are all free to do whatever we want to do. My only advice is to think before acting, question your counterpart's intentions, try to see the forest instead of the tree(s).
 
-**Do you agree with this pseudo guide? Any other red flags you have noticed?**
+**Do you agree with this pseudo-guide? Any other red flags you have noticed?**
