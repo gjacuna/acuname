@@ -16,6 +16,7 @@ fields:
   name: summary
   label: summary
 pages:
+- content/posts/8-mistakes-to-avoid-while-traveling-with-kids.md
 - content/posts/a-new-experiment.md
 - content/posts/episode-1-risk-time-and-value.md
 - content/posts/episode-2-missing-the-train.md
