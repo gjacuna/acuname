@@ -53,7 +53,7 @@ Other times or in other places (like Paris, France) they seem to forget children
 
 Not much to do to about this (a discussion about airport security and its irrationalities will have to wait), except trying to avoid the Paris airport.
 
-## 2. Choosing the cheap option instead of the comfortable option
+## 5. Choosing the cheap option instead of the comfortable option
 
 When you’re starting a business, not earning a salary, _slowly_ eating away your savings, is easy to make this mistake. Every family will have their own budget and thresholds, but saving 50 dollars per ticket by traveling at a later time is an easy mistake to avoid. Even though there are no real good times of the day to travel with kids, some times are worse than others. You don’t want to take a 4 hour flight that takes off at the same time your kids are supposed to go to sleep. For short flights my preference is early in the morning, sometimes there are no other options.
 
