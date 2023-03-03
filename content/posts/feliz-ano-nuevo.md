@@ -1,7 +1,7 @@
 +++
 date = 2023-03-03T08:00:00Z
 featured_image = "/uploads/411201_10150559770866974_342814612_o.jpg"
-summary = "\"Lo más importante en la vida es\nsonreírle al mundo con optimismo y fe\nSi tienes problemas o penas de amor\nlevanta tu frente y ríe que es mejor\"\nJappening con Ja"
+summary = "Reflexionando sobre la risa y el humor en un nuevo año"
 title = "Feliz Año Nuevo"
 
 +++
@@ -35,4 +35,4 @@ Queda su legado de humor, de la risa como instrumento, como remedio, como calman
 
 > “Hay que quitar (…) importancia a las cosas, y soportarlas con más facilidad: es más humano tomar la vida a risa que a llanto. (…) es mejor bienhechor del género humano el que ríe que el que llora: aquél deja algún lugar a la esperanza.”
 
-_“Habla desde el corazón y asegúrate de decir algo chistoso. A la gente le gusta reírse para liberar la tensión y la tristeza.”_ Seguiré siguiendo el consejo al pie de la letra, aunque ponga incómodos a los burócratas de este mundo por unos segundos.
+_“Habla desde el corazón y asegúrate de decir algo chistoso. A la gente le gusta reírse para liberar la tensión y la tristeza.”_ Seguiré escuchando el consejo, aunque ponga incómodos a los burócratas de este mundo por unos segundos.
