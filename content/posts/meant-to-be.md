@@ -1,8 +1,8 @@
 ---
-title: “It was meant to be: Understanding the Interplay of Bias, Emotion and Memory”
+title: “It was meant to be: Understanding the Interplay of Bias, Emotion and Memory“
 date: 2023-07-09T22:22:22-04:00
 featured_image: /images/meant-to-be.jpg
-summary: “Reflecting on the interplay of bias, emotion, and memory, I share insights on how our brains often weave causal narratives, such as “It was meant to be,” to make sense of our experiences.”
+summary: “Reflecting on the interplay of bias, emotion, and memory, I share insights on how our brains often weave causal narratives, such as It was meant to be to make sense of our experiences.“
 draft: false
 
 ---
