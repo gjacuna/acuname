@@ -5,7 +5,7 @@ summary = "Stupid mistakes that make life worth living."
 title = "Episode 2: Missing the Train"
 
 +++
-Hello again! This is the **second installment** of my new experiment. Read the previous chapter [here](https://acuna.eth.limo/2022/episode-1-risk-time-and-value/ "Episode 1").
+Hello again! This is the **second installment** of my new experiment. Read the previous chapter [here](/2022/episode-1-risk-time-and-value/ "Episode 1").
 
 A few months back, my family and I went on a day-trip to a cool history museum / amusement park in the Netherlands called **Archeon**. It's cool because you can walk around various historical periods in Dutch history, with archeological reconstructions and historical reenactments. Anyway, kids love it.
 
